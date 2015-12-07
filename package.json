@@ -1,0 +1,8 @@
+{
+  "name": "vpn",
+  "version": "0.1.0",
+  "dependencies": {
+    "insubnet": "0.0.8",
+    "sleep": "^3.0.0"
+  }
+}
